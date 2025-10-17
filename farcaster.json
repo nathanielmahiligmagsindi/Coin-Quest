@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Crypto Task Reward dApp",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9906419e-ba40-4d8d-b5a7-6a9614f2014b-4IzktHqC2a4B37j7YKmlf9tAhaaTaU",
+    "homeUrl": "https://depend-camp-749.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9906419e-ba40-4d8d-b5a7-6a9614f2014b-4IzktHqC2a4B37j7YKmlf9tAhaaTaU",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Crypto Task Reward dApp",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_9906419e-ba40-4d8d-b5a7-6a9614f2014b-4IzktHqC2a4B37j7YKmlf9tAhaaTaU"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
